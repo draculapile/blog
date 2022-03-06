@@ -2,7 +2,7 @@
 write something
 ## 目录
 ### JavaScript
-[**函数柯里化**](https://github.com/draculapile/blog/issues/1#issue-1148287625)
+[**函数柯里化**](https://github.com/draculapile/blog/issues/1#issue-1148287625)<br />
 [**JavaScript Inheritance**](https://github.com/draculapile/blog/issues/2#issue-1160632901)
 
 ## License
