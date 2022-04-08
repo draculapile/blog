@@ -3,7 +3,7 @@ write something
 ## 目录
 ### JavaScript
 [**函数柯里化**](https://github.com/draculapile/blog/issues/1)<br />
-[**JavaScript Inheritance**](https://github.com/draculapile/blog/issues/2)
+[**JavaScript Inheritance**](https://github.com/draculapile/blog/issues/2)<br />
 [**Event Loop**](https://github.com/draculapile/blog/issues/3)
 
 ## License
